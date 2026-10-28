@@ -20,5 +20,12 @@
     "publishedAt": "2026-10-28T16:41:45Z",
     "build": 563,
     "notes": "Hold a message: the whole screen goes soft, emoji reactions sit above it and a card of actions below (Forward, Copy, Delete, Select more, Info), like Google Messages. Select more and the Details page match too.\nThe keyboard closes after you send and when you swipe through the messages. The voice recorder is much smaller. The tablet icon on messages another tablet sent no longer goes missing.\nFixed a crash when opening a video that had been downloaded ahead.\nSince the last update: bubbles stop at about three quarters of the width."
+  },
+  "messageplus": {
+    "versionCode": 26122366,
+    "versionName": "6.4.5-FR GOLOMBECK (build 126)",
+    "url": "https://github.com/avrohomgolo-coder/flip-relay-web/releases/download/messageplus-26122366/messageplus-26122366.apk",
+    "at": 1793226279795,
+    "notes": "Audio you attach from the tablet (MP3, M4A, WAV and so on) now arrives as that kind of audio instead of always being treated as a voice recording.\nUpdates now download from GitHub.\nThis build is signed with a new key. If the update says it cannot install, uninstall Message+ once and use the restore app."
   }
 }
