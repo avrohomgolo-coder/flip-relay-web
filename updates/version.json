@@ -36,9 +36,9 @@
     "notes": "Audio you attach from the tablet (MP3, M4A, WAV and so on) now arrives as that kind of audio instead of always being treated as a voice recording.\nUpdates now download from GitHub.\nThis build is signed with a new key. If the update says it cannot install, uninstall Message+ once and use the restore app."
   },
   "tablet2": {
-    "sha": "d403827545d23ddd031b8b1e46a9bfe4c339b40a",
-    "publishedAt": "2026-10-29T00:37:40Z",
-    "build": 604,
-    "notes": "Adds a Performance log (Settings > Performance log) that records why this test copy is slow: when the screen freezes and what it was waiting on, how long loading messages takes, memory and how busy it is. Open it and use Share to send it.\nGroup texts from a group the tablet hasn't seen before start their own group."
+    "sha": "90d6766be09d1a3ab0619a6487e9e7f98e437240",
+    "publishedAt": "2026-10-29T02:16:43Z",
+    "build": 605,
+    "notes": "Fixed messages showing twice after the phone's history sync (the same text appeared once from the live message and once from the sync). The extra copy is now left out, and copies already saved are cleaned up when the app opens.\nAlso in this copy: the Performance log (Settings > Performance log), and group texts from a new group start their own group."
   }
 }
