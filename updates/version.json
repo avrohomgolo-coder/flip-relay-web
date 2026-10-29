@@ -34,5 +34,11 @@
     "url": "https://github.com/avrohomgolo-coder/flip-relay-web/releases/download/messageplus-26122366/messageplus-26122366.apk",
     "at": 1793226279795,
     "notes": "Audio you attach from the tablet (MP3, M4A, WAV and so on) now arrives as that kind of audio instead of always being treated as a voice recording.\nUpdates now download from GitHub.\nThis build is signed with a new key. If the update says it cannot install, uninstall Message+ once and use the restore app."
+  },
+  "tablet2": {
+    "sha": "240700648d872cffe37890f74aeb695256cd09d0",
+    "publishedAt": "2026-10-29T00:15:19Z",
+    "build": 603,
+    "notes": "A group text from a group you hadn't used on the tablet before now starts its own group here, instead of showing up as a single message from one person.\nThis is a separate copy of the app (Message+ New): it installs next to your current tablet app and does not replace it. Pair it with your room like a new tablet."
   }
 }
